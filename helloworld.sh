@@ -5,6 +5,8 @@ clear
 echo "Hello World!!!"
 
 echo "Hi, $USER!"
+
+echo "Bye, $USER!"
 echo
 
 
